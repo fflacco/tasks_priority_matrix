@@ -2,7 +2,7 @@
 Matlab scripts for testing a novel redundancy resolution method based on the tasks priority matrix
 
 With the this code it possible to obtain the plots ans numerical results presented in the paper 
-"Thoward the complete task state control" submitted to IROS 2016
+"Toward the complete task state control" submitted to IROS 2016
 
 The main mathod is reported in the function tasksPriorityMatrix.m.
 
