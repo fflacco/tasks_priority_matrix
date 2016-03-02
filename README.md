@@ -18,3 +18,4 @@ then run videoSimulationRomeo.m to see the results
 
 The results of the simulation are stored in workspace variable that can be used for statistics, please use them at your will.
 
+Author: Fabrizio Flacco CNRS-LIRMM France {flacco@lirmm.fr}
